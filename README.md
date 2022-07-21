@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liangliangpan
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, c++, high performance computing, OLAP and related fields
 
 
 <!---
